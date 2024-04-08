@@ -1,0 +1,21 @@
+#main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#github-container {
+  display: flex;
+}
+
+ul {
+  list-style: none;
+}
+#user-list>li{
+  border: 2px solid black;
+  margin-bottom: 10px;
+}
+#repos-list>li{
+  border: 2px solid black;
+  margin-bottom: 10px;
+}
